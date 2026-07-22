@@ -2,6 +2,7 @@
 
 A high-performance Java 21 application built to analyze financial trade execution data, compute net long asset risk based on market mark prices, and aggregate trading volume by counterparty.
 
+There are two archives—one .zip and another (for Windows decompression); they are identical. Download, extract, and open with IntelliJ.
 ---
 
 ## 1. Requirements
